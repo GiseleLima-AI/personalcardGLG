@@ -5,6 +5,7 @@
     --cor-secundaria: #fdfdfd;
     --cor-terciaria: #0aeb42;
     --cor-hover: #272727;
+    --cor-hovermod: #0aeb42;
     --cor-hovermod1: #f6f6f6;
     --cor-hovermod2: #272727;
     --fonte-primaria: "Krona One", sans-serif;
@@ -96,6 +97,10 @@ body {
     letter-spacing: 1px;
 }
 
+a{
+    text-decoration: none;
+} 
+
 .apresentacao__links {
     display: flex;
     flex-direction: column;
@@ -173,6 +178,15 @@ body {
     background-color: var(--cor-hover);
 } 
 
+.apresentacao__links__navegacao__rodape {
+    color: var(--cor-terciaria);
+    text-decoration: none;
+} 
+
+.apresentacao__links__navegacao__rodape:hover {
+    color: var(--cor-hovermod);
+    text-decoration: none;
+} 
 .apresentacao__links__navegacao__modelo1:hover {
     background-color: var(--cor-hovermod1);
     color: var(--cor-primaria);
@@ -197,6 +211,7 @@ body {
     font-family: var(--fonte-secundaria);
     font-size: 1rem;
     font-weight: 400;
+    text-decoration: none;
 }
 
 @media (max-width: 1200px) {
