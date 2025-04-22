@@ -64,7 +64,7 @@ img {
 }
 
 .apresentacao__conteudo__titulo {
-    padding: 10% 0%;
+    padding: 5% 0%;
     font-size:1.4rem;
     font-family: var(--fonte-primaria);
     text-align: center;
@@ -125,6 +125,7 @@ a{
 }
 
 .apresentacao__links__subtitulo {
+    padding: 5% 0% 0% 0%;
     font-family: var(--fonte-primaria);
     font-size:1.2rem;
     text-align: center;
