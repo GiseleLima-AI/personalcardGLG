@@ -127,6 +127,7 @@ a{
 .apresentacao__links__subtitulo {
     font-family: var(--fonte-primaria);
     font-size:1.2rem;
+    text-align: center;
     font-weight: 400;
 }
 
@@ -214,7 +215,7 @@ a{
     padding: 20px;
     text-align: center;
     color: var(--cor-terciaria);
-    /*background-color: var(--cor-secundaria);*/
+    background-color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
     font-size: 1rem;
     font-weight: 400;
