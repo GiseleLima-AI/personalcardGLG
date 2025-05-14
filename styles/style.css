@@ -40,8 +40,8 @@ img {
 
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 1.3rem;
-    font-weight: 400;
+    font-size: 1.2rem;
+    font-weight: 200;
     color:var(--cor-terciaria);
     text-decoration: none;
     text-align: center; 
@@ -67,8 +67,8 @@ img {
 
 .apresentacao__conteudo__titulo {
     padding: 5% 0%;
-    font-size:1.3rem;
-    font-weight: 400;
+    font-size:1.2rem;
+    font-weight: 200;
     font-family: var(--fonte-secundaria);
     text-align: center;
 }
@@ -85,7 +85,7 @@ img {
     /*padding: 1% 1%;*/
     font-family: var(--fonte-secundaria);
     font-size: 1.2rem;
-    font-weight: 400;
+    font-weight: 200;
     color: var(--cor-terciaria);
     text-align: center;
 }
@@ -94,7 +94,7 @@ img {
 }
 
 .apresentacao__conteudo__texto {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-family: var(--fonte-secundaria);
     font-weight: 200;
     color: var(--cor-secundaria);
@@ -131,7 +131,7 @@ a{
     padding: 5% 0% 0% 0%;
     font-family: var(--fonte-secundaria);
     font-size:1.2rem;
-    font-weight: 400;
+    font-weight: 200;
     text-align: center;
 }
 
@@ -142,8 +142,8 @@ a{
     width: 50%;
     border: 2px solid var(--cor-terciaria);
     border-radius: 9px;
-    font-size:1.3rem;
-    font-weight: 400;
+    font-size:1.2rem;
+    font-weight: 200;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
     font-style: normal;
@@ -159,8 +159,8 @@ a{
     width: 50%;
     border: 2px solid var(--cor-terciaria);
     border-radius: 9px;
-    font-size:1.3rem;
-    font-weight: 400;
+    font-size:1.2rem;
+    font-weight: 200;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
     font-style: normal;
@@ -176,8 +176,8 @@ a{
     width: 50%;
     border: 2px solid var(--cor-terciaria);
     border-radius: 9px;
-    font-size:1.3rem;
-    font-weight: 400;
+    font-size:1.2rem;
+    font-weight: 200;
     color: var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
     font-style: normal;
@@ -203,8 +203,8 @@ a{
     background-color: var(--cor-hovermod1);
     color: var(--cor-primaria);
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem
-    font-weight: 400;
+    font-size: 1.2rem
+    font-weight: 200;
     font-style: normal;
 } 
 
